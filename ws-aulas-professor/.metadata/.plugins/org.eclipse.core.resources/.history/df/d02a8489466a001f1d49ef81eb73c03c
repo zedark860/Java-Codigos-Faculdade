@@ -1,0 +1,39 @@
+package entities;
+
+public class Gerente extends Funcionario {
+	
+	private String nome, cpf;
+	
+	private double salario;
+	
+	private int senha;
+	
+	
+	public Gerente() {
+		
+	}
+	
+	
+	public boolean autentica(int senha) {
+		if (this.senha != senha) { return false; }
+		
+		return true;
+	}
+
+
+	public String getNome() {
+		return nome;
+	}
+
+
+	public String getCpf() {
+		return cpf;
+	}
+
+
+	public double getSalario() {
+		return salario;
+	}
+	
+	
+}

@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="entities.Conta"/>
+    <fullyQualifiedTypeName name="entities.ControleBonificacao"/>
     <fullyQualifiedTypeName name="entities.Gerente"/>
+    <fullyQualifiedTypeName name="entities.EditorVideo"/>
+    <fullyQualifiedTypeName name="entities.Funcionario"/>
+    <fullyQualifiedTypeName name="entities.Designer"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
